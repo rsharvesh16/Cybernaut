@@ -1,0 +1,24 @@
+What is transformers in Machine Learning?
+
+Transformers are a type of neural network architecture that has been widely used in Natural Language Processing Tasks. They are used to solve transformation of input sequences to output sequences.
+
+Reinforcement Learning
+
+Reinforcement learning is a subfield of artificial intelligence that focuses on how a agent can learn to make decisions by interacting with the environment. In RL,the agent receives feedback in the form of rewards or penalties for its actions in the environment and uses this feedback to improve its decision-making process over time.
+
+Pre Trainedd Model 
+
+A pre-trained model in machine learning is a model that has been trained on a large dataset. The pre-trained model is a neural network that has been trained on a specific task such as image classification, object detection, or natural language processing, using a large amount of data.
+They can be used to speed up the process of training a new model or to improve the accuracy of an existing model.
+
+Applications Of Reinforcement Learning
+
+1. Automated Medical Diagnosis
+2. Automated Traffic Light Control
+3. Image Processing
+4. Object Detection and Localization
+5. Gaming
+6. Health Care
+7. Personalised Video Recommendations
+8. Automated Robots
+
