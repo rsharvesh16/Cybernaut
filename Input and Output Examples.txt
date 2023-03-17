@@ -1,0 +1,36 @@
+Clustering :
+
+Input Examples:
+
+A dataset of customer purchase histories, including products purchased, purchase dates, and purchase amounts.
+A collection of news articles, each represented as a bag-of-words vector.
+
+Output Examples:
+
+Cluster the customers into different groups based on their purchase behavior, such as frequent buyers, high-spenders, and bargain hunters.
+Group similar news articles together, such as articles about politics, sports, or technology.
+
+Regression :
+
+Input Examples:
+
+A dataset of housing prices, including features such as the number of bedrooms, square footage, and location.
+A collection of weather data, including features such as temperature, humidity, and wind speed.
+
+
+Output Examples:
+
+Predict the price of a house based on its features, such as location, size, and amenities.
+Forecast the weather conditions for a given location and time, based on historical weather data and current conditions.
+
+Classification :
+
+Input Examples:
+
+A dataset of customer purchase histories, including features such as the products purchased, purchase dates, and purchase amounts.
+A collection of emails, each represented as a bag-of-words vector.
+
+Output Examples:
+
+Classify customers into different categories, such as frequent buyers, high-spenders, and bargain hunters.
+Classify emails as either spam or not spam.
